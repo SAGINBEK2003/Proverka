@@ -1,0 +1,68 @@
+.main-boxs {
+  text-align: center;
+}
+.btn__obshye {
+  width: 85%;
+  height: auto;
+  padding: 15px 20px 15px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border: 1px solid #e7eaec;
+  color: rgba(255, 255, 255, 1);
+  font-size: 25px;
+  background: rgba(255, 255, 255, .1);
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none !important;
+}
+.btn__bedwars {
+  width: 85%;
+  height: auto;
+  padding: 15px 20px 15px;
+  margin-bottom: 25px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border: 1px solid #e7eaec;
+  color: rgba(255, 255, 255, 1);
+  font-size: 25px;
+  background: rgba(255, 255, 255, .1);
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none !important;
+}
+.btn__the-bridge {
+  width: 85%;
+  height: auto;
+  padding: 15px 20px 15px;
+  margin-bottom: 25px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border: 1px solid #e7eaec;
+  color: rgba(255, 255, 255, 1);
+  font-size: 25px;
+  background: rgba(255, 255, 255, .1);
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none !important;
+}
+.btn__tnt-tun {
+  width: 85%;
+  height: auto;
+  padding: 15px 20px 15px;
+  margin-bottom: 25px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border: 1px solid #e7eaec;
+  color: rgba(255, 255, 255, 1);
+  font-size: 25px;
+  background: rgba(255, 255, 255, .1);
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none !important;
+}
